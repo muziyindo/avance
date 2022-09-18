@@ -1,0 +1,2 @@
+Application ID: 02f08fd4-2059-4d95-aaac-fa425892e137
+Tenant ID: 2994b880-e5c5-40cd-b27e-35c292c42afe

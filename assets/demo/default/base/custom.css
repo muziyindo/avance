@@ -1,0 +1,49 @@
+/*background color of submenu in Nav*/
+.m-aside-menu .m-menu__nav>.m-menu__item>.m-menu__submenu>.m-menu__subnav>.m-menu__item>.m-menu__link
+{
+	background:#000051 !important
+}
+
+
+/*color of the side Nav links*/
+.m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item>.m-menu__heading .m-menu__link-text, .m-aside-menu.m-aside-menu--skin-dark .m-menu__nav>.m-menu__item>.m-menu__link .m-menu__link-text {
+    color: #fff;
+}
+
+
+.m-portlet__head-text
+{
+	
+	color: #1a237e !important
+	
+}
+
+#m_aside_left
+{
+	background: #000051 !important
+}
+
+#m-brand__icon m-brand__toggler m-brand__toggler--left m--visible-desktop-inline-block 
+{
+	color:red !important
+	
+}
+
+/*Table header color*/
+.m-table.m-table--head-bg-brand thead th {
+    /*background: #000051 !important;*/
+    /*color: #fff;*/
+    border-bottom: 0;
+    border-top: 0;
+}
+
+/* Table border color*/
+.m-table.m-table--border-brand, .m-table.m-table--border-brand td, .m-table.m-table--border-brand th {
+    /*border-color: #000051 !important;*/
+}
+
+/* Form category header background color - applied to the add_contract form */
+.m-portlet__head{
+ background:#c4c5d6 !important; 	
+}
+

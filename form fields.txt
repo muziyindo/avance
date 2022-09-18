@@ -1,0 +1,17 @@
+requester_title
+requester_name
+requester_dept
+other_party_title
+other_party_name
+service_location
+authorized_signatory
+phone_no
+email
+address
+contract_duration
+proposed_start_date
+proposed_end_date
+proposal_agreed_upon
+termination_notice
+payment_term
+sale_of_equipment
